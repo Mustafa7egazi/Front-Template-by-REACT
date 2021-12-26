@@ -1,0 +1,49 @@
+
+.course-link
+{
+    background-color: cornflowerblue;
+    padding-bottom: 50px;
+}
+.courseheading
+{
+    color: white;
+    font-size: 50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-style: oblique;
+    text-align: center;
+}
+.that-ul {
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+
+}
+.that-ul a {
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 20px;
+    color: black;
+    border: 1px solid black;
+    color: white;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: #2D3092;
+}
+.that-ul a:hover {
+    background-color: white;
+    color:#1977E9 ;
+}
+
+.ul-link {
+    overflow: hidden;
+    color: black;
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+.active {
+    background-color: red;
+}
+
+

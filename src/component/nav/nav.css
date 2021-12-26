@@ -1,0 +1,106 @@
+
+
+.container {
+    width: 100%;
+    margin: auto;
+    color: black;
+    background-image: url("../imgs/back.jpg");
+    background-size: cover;
+    height: 900px;
+    color: white;
+    display: block;
+    
+}
+.sub-container
+{
+    background-color: #343a40;
+    opacity: .9;
+    height: 900px;
+}
+.Nav {
+    overflow: hidden;
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.logo {
+    width: 10%;
+    float: left;
+    display: block;
+    margin: 10px 0px;
+    color: white;
+}
+ul {
+    width: 50%;
+    float: left;
+    padding: 0px;
+    text-align: right;
+}
+ul a {
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 20px;
+    color: white;
+}
+a:hover {
+    color: rgba(255, 255, 255, 0.678);
+    text-decoration: none;
+    border-bottom: 3px solid white;
+}
+.list-item {
+    padding: 10px;
+}
+.buttons
+{
+    display: inline;
+    width: 30%;
+    margin-left: 100px;
+}
+.btn
+{
+    background-color: #1977E9; 
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-top: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+
+    
+}
+.btn:hover{
+    background-color: #6358ff; 
+}
+
+
+.heading
+{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin:auto;
+    margin-top: 200px;
+    
+}
+.text
+{
+    width: 100%;
+}
+#addmission
+{
+    margin-left: 0px;
+    margin-top: 30px;
+}
+.meta
+{
+    width: 120%;
+    height: 300px;
+    margin-left: 100px;
+}

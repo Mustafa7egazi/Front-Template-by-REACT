@@ -1,0 +1,40 @@
+.programContainer {
+    text-align: center;
+    margin-top: 10%;
+}
+.programContainer > p {
+    color: gray;
+}
+.prog1 , .prog3 , .prog2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    
+}
+.prog1 > img , .prog3 > img {
+    width: 50%; 
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.prog1Content , .prog3Content {
+    margin-top: 10%;
+}
+.prog1Content > p , .prog3Content > p {
+    color: gray;
+}
+
+.prog2 > img {
+    
+    width: 45%; 
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.prog2Content  {
+    
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top:10% ;
+}
